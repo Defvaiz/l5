@@ -1,0 +1,30 @@
+C:\Users\Максим\source\repos\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.exe
+C:\Users\Максим\source\repos\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.deps.json
+C:\Users\Максим\source\repos\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.runtimeconfig.json
+C:\Users\Максим\source\repos\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.dll
+C:\Users\Максим\source\repos\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.pdb
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.dll
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\refint\Лаба 5 доп.dll
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.pdb
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Лаба 5 доп\obj\Debug\net6.0\ref\Лаба 5 доп.dll
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.exe
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.deps.json
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.runtimeconfig.json
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.dll
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\bin\Debug\net6.0\Лаба 5 доп.pdb
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.dll
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\refint\Лаба 5 доп.dll
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.pdb
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\Лаба 5 доп.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Laba 5.0\Лаба 5 доп\obj\Debug\net6.0\ref\Лаба 5 доп.dll
